@@ -7,4 +7,4 @@ let arr=['on','two'];//array type of data
 console.log(typeof arr);
 let bool=true;//its boolean type either true or false
 console.log(typeof bool);
-var a=20;//global varriable we can chnage it ;
+var b=20;//global varriable we can chnage it ;

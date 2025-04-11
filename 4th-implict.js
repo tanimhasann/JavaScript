@@ -7,3 +7,6 @@ console.log(a-b);//show output 10
 console.log(a/b);//show the output 2
 let x='abc'&& 123;
 console.log(x);
+b.forEach(function(item,ndex,arr){
+    
+});
